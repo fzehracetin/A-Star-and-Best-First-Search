@@ -3,3 +3,5 @@ This is the implementation of A* and Best First Search Algorithms in python lang
 
 Search algorithms run on the images between start and end pixels. I add R value from RGB value to the h(n) and g(n) functions. Thus, algorithms tend to move from the red areas. 
 
+![Best First Search implemetation](Screenshots/bfs.png)
+

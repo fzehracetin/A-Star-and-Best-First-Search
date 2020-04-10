@@ -15,5 +15,8 @@ For A* Algorithm we add another function to our f(n). This time **f(n) = h(n) + 
 
 In this formula point1.parent.g stands for the cost between starting point and the parent point. 256 - R term gives the cost value for that point, from its parent.
 
-![Best First Search implemetation](screenshots/bfs.png)
+With heap, both algorithm works much more faster. (30 times faster)
 
+![Best First Search and A* implementation](screenshots/bfs and a star.png)
+
+Both algorithm tends to move from the white areas (R = 255). A* chose the shorter path. 

@@ -17,6 +17,6 @@ In this formula point1.parent.g stands for the cost between starting point and t
 
 With heap, both algorithm works much more faster. (30 times faster)
 
-![Best First Search and A* implementation](screenshots/bfs and a star.png)
+![Best First Search and A* implementation](https://github.com/fzehracetin/A-Star-and-Best-First-Search/blob/master/screenshots/bfs%20and%20a%20star.png)
 
 Both algorithm tends to move from the white areas (R = 255). A* chose the shorter path. 
